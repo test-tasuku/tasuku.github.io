@@ -22,12 +22,8 @@ body {
 }
 
 /* サイト全体のフォント指定 */
-2
-body {
-3
-font-family: "MS P明朝" ;
-4
-}
+
+body {font-family: "MS P明朝" ;}
 
 /* --------------------
         見出し
